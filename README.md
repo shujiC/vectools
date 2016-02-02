@@ -1,2 +1,2 @@
 # vectools
-glorious vector drawing in your browser
+glorious vector drawing in your browser.
